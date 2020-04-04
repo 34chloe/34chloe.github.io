@@ -16,11 +16,10 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
+- Lis
 
-1. Numbered
+1. list
 2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
